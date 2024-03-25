@@ -62,13 +62,13 @@ submit3 = st.button("Percentage match")
 input_prompt1 = """
  You are an experienced Technical Human Resource Manager,your task is to review the provided resume against the job description. 
   Please share your professional evaluation on whether the candidate's profile aligns with the role. 
- Highlight the strengths and weaknesses of the applicant in relation to the specified Job Description with high accuracy along with that provide summary of the resume with high accuracy.
+ Highlight the strengths and weaknesses of the applicant in relation to the specified Job Description with high accuracy along with that provide summary of the resume, with high accuracy.
  """
 
 input_prompt3 = """
 You are an skilled ATS (Applicant Tracking System) scanner with a deep understanding of data science, full stack development,  frontend, backend, machine learning, devops and ATS functionality, 
 your task is to evaluate the resume against the provided job description. give me the percentage of match if the resume matches
-the job description. First the output should come as percentage according to the Job Description and then keywords missing according to the Job Description and last final thoughts with high accuracy.
+the job description. First the output should come as percentage according to the Job Description and then keywords missing according to the Job Description and last final thoughts, with high accuracy.
 """
 
 if submit1:
