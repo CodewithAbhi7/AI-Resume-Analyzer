@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-Check out the live demo: [LLM Gemini Pro Demo](https://ats-tracking-gemini-pro-gwymzpiuupwgjsah8rfatc.streamlit.app/)
+Check out the live demo: [Demo Link](https://application-tracking-system-ats.streamlit.app/)
 
 
 ## Overview
