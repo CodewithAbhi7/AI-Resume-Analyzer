@@ -62,7 +62,7 @@ This is an Applicant Tracking System (ATS) tracking system developed using Gemin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/ats-tracking-system.git
+   git clone https://github.com/CodewithAbhi7/Application-Tracking-System-ATS-.git
 2. pip install -r requirements.txt
 3. streamlit run app.py
 
