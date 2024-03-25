@@ -24,7 +24,7 @@ This is an Applicant Tracking System (ATS) tracking system developed using Gemin
 ## Use Case
 
 
-###Streamlined Resume Optimization:
+### Streamlined Resume Optimization:
 
 1.**User Submission:**
   - Users log in and securely upload their resume and the job description.
