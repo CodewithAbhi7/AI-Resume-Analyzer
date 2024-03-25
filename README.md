@@ -17,7 +17,8 @@ This is an Applicant Tracking System (ATS) tracking system developed using Gemin
   - Suggestions are given on how users can improve the match to increase their chances of selection.
 
 ## Screenshot
-"C:\Users\achar.LAPTOP-QSEE5RJ8.000\OneDrive\Pictures\Screenshots\Screenshot 2024-03-25 184228.png"
+![Screenshot 2024-03-25 184228](https://github.com/CodewithAbhi7/Application-Tracking-System-ATS-/assets/112254825/32ee101c-265c-48f7-a3bd-181cb0ffe447)
+
 
 ## Use Case
 
