@@ -27,16 +27,16 @@ This is an Applicant Tracking System (ATS) tracking system developed using Gemin
 ###Streamlined Resume Optimization:
 
 1.**User Submission:**
-  -Users log in and securely upload their resume and the job description.
-  -The system ensures confidentiality and data security throughout the process.
+  - Users log in and securely upload their resume and the job description.
+  - The system ensures confidentiality and data security throughout the process.
 
 2.**Resume Analysis:**
-  -Gemini Pro conducts a comprehensive analysis of both documents, considering key factors such as skills, experiences, and keywords.
-  -Advanced algorithms ensure accurate assessment and provide a detailed match percentage.
+  - Gemini Pro conducts a comprehensive analysis of both documents, considering key factors such as skills, experiences, and keywords.
+  - Advanced algorithms ensure accurate assessment and provide a detailed match percentage.
 
 3.**Provides Suggestions:**
-   -Recommendations are tailored to the specific job description, highlighting areas for improvement in the resume.
-   -Suggestions may include adding relevant skills, emphasizing specific experiences, or incorporating targeted keywords.
+  - Recommendations are tailored to the specific job description, highlighting areas for improvement in the resume.
+  - Suggestions may include adding relevant skills, emphasizing specific experiences, or incorporating targeted keywords.
 
 4.**User Action:**
   - Users update their resume based on the suggestions.
