@@ -1,4 +1,4 @@
-# ATS Tracking System
+# AI Resume Analyzer
 
 ## Live Demo
 
@@ -7,7 +7,7 @@ Check out the live demo: [Demo Link](https://application-tracking-system-ats.str
 
 ## Overview
 
-This is an Applicant Tracking System (ATS) tracking system developed using Gemini Pro, Python, and Streamlit. The system allows users to upload job descriptions along with their resumes. The app then provides insights into the resume, including the percentage match with the job description and suggestions for improving the match.
+This is an AI Resume Analyzer tracking system developed using Gemini Pro, Python, and Streamlit. The system allows users to upload job descriptions along with their resumes. The app then provides insights into the resume, including the percentage match with the job description and suggestions for improving the match.
 
 ## Features
 
