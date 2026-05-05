@@ -54,7 +54,7 @@ This enables users to iteratively optimize resumes and improve ATS pass rates, a
 - PDF Processing: pdf2image, PIL
 - Environment Management: python-dotenv
 
-### Installation
+## Installation
 
 1. Clone the repository:
 
@@ -65,3 +65,7 @@ This enables users to iteratively optimize resumes and improve ATS pass rates, a
 3. ```bash
    streamlit run app.py
 
+## Future Improvements
+- Multi resume parsing
+- Vector search (FAISS) for semantic similarity
+- Hybrid scoring (LLM + embeddings + keyword engine)
