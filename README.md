@@ -13,7 +13,7 @@ This is an AI Resume Analyzer tracking system developed using Gemini Pro, Python
 
 - **Resume Analysis:**
   - Users can upload their resumes and job descriptions.
-  - The system analyzes the resume and provides a summary, strenghts and weaknesses, percentage match with the job description.
+  - The system analyzes the resume and provides a summary, strenghts and weaknesses, (percentage match, missing keywords, final thoughts) against the job description.
   - Suggestions are given on how users can improve the match to increase their chances of selection.
 
 ## Screenshot
