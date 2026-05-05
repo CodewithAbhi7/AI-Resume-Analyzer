@@ -7,7 +7,9 @@ Check out the live demo: [Demo Link](https://ai-resume-analyzer.streamlit.app/)
 
 ## Overview
 
-AI Resume Analyzer is developed using Gemini Pro, Python, and Streamlit that evaluates resumes against job descriptions. The system performs semantic and keyword-level analysis to generate:Resume–JD match score, Missing keyword insights, Context-aware improvement suggestions.
+AI Resume Analyzer is an LLM-powered Applicant Tracking System (ATS) simulator built using Google Gemini (Gemini Pro Vision), Python, and Streamlit. that evaluates resumes against job descriptions. The system performs semantic and keyword-level analysis to generate:Resume–JD match score, Missing keyword insights, Context-aware improvement suggestions.
+
+This enables users to iteratively optimize resumes and improve ATS pass rates, also for Recruiters(HR) to find the right candidate.
 
 ## Features
 
