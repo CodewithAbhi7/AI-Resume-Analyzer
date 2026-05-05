@@ -14,12 +14,20 @@ This enables users to iteratively optimize resumes and improve ATS pass rates, a
 ## Features
 
 - **Resume Analysis:**
-  - Users can upload their resumes and job descriptions.
-  - The system analyzes the resume and provides
+  - Upload resume (PDF) and job description
+  - AI evaluates:
+    - Skills alignment
+    - Experience relevance
+    - Role fit
+  - Output
     - summary
     - strenghts and weaknesses,
     - (percentage match, missing keywords, final thoughts) against the job description(JD).
-  - Suggestions are provided recommending Skill additions,Keyword optimization,Experience reframing,etc.
+
+- **Intelligent Suggestions**
+  - Skill additions
+  - Keyword optimization
+  - Experience reframing
 
 ## Screenshot
 ![304501091-3149e25a-764c-4dca-927e-94ca740a06eb (1)](https://github.com/CodewithAbhi7/Application-Tracking-System-ATS-/assets/112254825/c6186309-9a64-4eaa-81ee-0147484d2cf8)
